@@ -1,0 +1,2 @@
+# Optional local Ollama integration; install after requirements.txt.
+langchain-ollama>=0.2
